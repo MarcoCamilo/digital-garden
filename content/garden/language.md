@@ -1,0 +1,2 @@
+[[Quotes about languages]]
+[[LoCoS]]
