@@ -19,17 +19,18 @@ title: "Atomic Journaling"
 		- Daily affirmations. I am… (AM)
 		- 3 Amazing things that happened today… (PM)
 		- How could I have made today better? (PM)
-## Putting it into Action #journaling
-	1. Reference the collection set.
-	2. Apply the children of the reference as text to populate the prompts.
-	3. Start journaling!
-## Benefits of Atomic [[journaling]]
-	1. Keeping it relevant
-		- Atomic Journaling is extremely flexible and customizable.
-		- The goal is to always __resonate__ with my journaling prompts. **Keeping it fresh.**
-	2. Ability to look back on the history
-		- You can look at the references from the original block to see every place that prompt was used and how much has it been used through the prompt library.
-	3. Easy and forgiving
-		- The daily work for this is almost zero. Just complete the reference and expand the children. Done.
+
+## Putting it into Action
+1. Reference the collection set.
+2. Apply the children of the reference as text to populate the prompts.
+3. Start journaling!
+## Benefits of Atomic
+1. Keeping it relevant
+	- Atomic Journaling is extremely flexible and customizable.
+	- The goal is to always resonate with my journaling prompts. **Keeping it fresh.**
+2. Ability to look back on the history
+	- You can look at the references from the original block to see every place that prompt was used and how much has it been used through the prompt library.
+3. Easy and forgiving
+	- The daily work for this is almost zero. Just complete the reference and expand the children. Done.
 
 [Atomic Journaling](https://brandontoner.substack.com/p/atomic-journaling)

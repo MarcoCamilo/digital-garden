@@ -1,5 +1,5 @@
 ---
-title: "🏔-Writing-Inbox"
+title: "🏔 Writing Inbox"
 ---
 
 # 🏔 Writing Inbox

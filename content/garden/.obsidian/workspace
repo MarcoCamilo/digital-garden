@@ -1,0 +1,85 @@
+{
+  "main": {
+    "id": "bdade2dd603716a5",
+    "type": "split",
+    "children": [
+      {
+        "id": "cf9d00d6aa494f8a",
+        "type": "leaf",
+        "active": true,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "mindful-productivity.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "621d4c0a2999be34",
+    "type": "split",
+    "children": [
+      {
+        "id": "0601a105d89a9e46",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c9bbd8ed7bc27183",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "64f99486e01eaf1c",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": ""
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "c746073aa94e87b8",
+    "type": "split",
+    "children": [
+      {
+        "id": "e48415f186b4212f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "af381c15d63f4201",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "mindful-productivity.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "lastOpenFiles": [
+    "mindful-productivity.md",
+    "Atomic Journaling.md",
+    "🏔-Writing-Inbox.md",
+    "🏔 Writing Inbox.md",
+    "journaling.md",
+    "Untitled.md"
+  ]
+}
