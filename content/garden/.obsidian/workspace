@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "mindful-productivity.md",
+            "file": "Atomic Journaling.md",
             "mode": "source"
           }
         }
@@ -64,7 +64,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "mindful-productivity.md"
+                "file": "Atomic Journaling.md"
               }
             }
           }
@@ -75,11 +75,11 @@
     "width": 300
   },
   "lastOpenFiles": [
-    "mindful-productivity.md",
     "Atomic Journaling.md",
+    "journaling.md",
+    "mindful-productivity.md",
     "🏔-Writing-Inbox.md",
     "🏔 Writing Inbox.md",
-    "journaling.md",
     "Untitled.md"
   ]
 }

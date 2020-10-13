@@ -12,13 +12,13 @@ title: "Atomic Journaling"
 - **prompt library**: a comprehensive collection of every journaling prompt that you love.
 - **collection sets**: a collection of prompt sets.
 - Build a rich library and organize them into collection that resonate with you.
-	- Create a collection set with a name and add prompts by block referencing them.
-	- Five Minute Journal
-		- I am grateful for… (AM)
-		- What would make today great? (AM)
-		- Daily affirmations. I am… (AM)
-		- 3 Amazing things that happened today… (PM)
-		- How could I have made today better? (PM)
+- Create a collection set with a name and add prompts by block referencing them.
+- Five Minute Journal
+	- I am grateful for… (AM)
+	- What would make today great? (AM)
+	- Daily affirmations. I am… (AM)
+	- 3 Amazing things that happened today… (PM)
+	- How could I have made today better? (PM)
 
 ## Putting it into Action
 1. Reference the collection set.
@@ -27,7 +27,7 @@ title: "Atomic Journaling"
 ## Benefits of Atomic
 1. Keeping it relevant
 	- Atomic Journaling is extremely flexible and customizable.
-	- The goal is to always resonate with my journaling prompts. **Keeping it fresh.**
+	- The goal is to always *resonate* with my journaling prompts. **Keeping it fresh.**
 2. Ability to look back on the history
 	- You can look at the references from the original block to see every place that prompt was used and how much has it been used through the prompt library.
 3. Easy and forgiving
